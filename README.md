@@ -1,5 +1,5 @@
-# EmoTalk
-The official repository of the paper [EmoTalk: Speech-driven emotional disentanglement for 3D face animation](https://arxiv.org/abs/2303.11089)
+# EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation [ICCV2023]
+The repository of the paper [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://arxiv.org/abs/2303.11089)
 
 <p align='center'>
   <b>
@@ -18,6 +18,6 @@ The official repository of the paper [EmoTalk: Speech-driven emotional disentang
 
   The proposed **EmoTalk** is an end-to-end neural network for generating speech-driven emotion-enhanced 3D facial animation.
 
-  ## Dataset
-
-We are organizing our dataset and will release the dataset soon.
+  ## Cdoe
+  
+We released our code in the Psyche AI's official repository, please visit [EmoTalk_release](https://github.com/psyai-net/EmoTalk_release).

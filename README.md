@@ -18,6 +18,6 @@ The repository of the paper [EmoTalk: Speech-Driven Emotional Disentanglement fo
 
   The proposed **EmoTalk** is an end-to-end neural network for generating speech-driven emotion-enhanced 3D facial animation.
 
-  ## Cdoe
+  ## Code
   
 We released our code in the Psyche AI's official repository, please visit [EmoTalk_release](https://github.com/psyai-net/EmoTalk_release).

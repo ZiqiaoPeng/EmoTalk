@@ -1,4 +1,4 @@
-  ## Code
+  ## Public Code here ❗️❗️❗️
   
 We released our code in the Psyche AI's official repository, please visit [EmoTalk_release](https://github.com/psyai-net/EmoTalk_release).
 
